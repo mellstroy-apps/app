@@ -25,8 +25,6 @@
 
 - **Сайт:** https://mellstroy-apps.github.io/app/
 - **Каталог казино:** https://mellstroy-apps.github.io/app/catalog/
-- **Скачать APK (Android):** https://hubprojects.net/mellstroy/mellstroy-android.apk
-- **Скачать EXE (Windows):** https://hubprojects.net/mellstroy/mellstroy-setup.exe
 
 ---
 
